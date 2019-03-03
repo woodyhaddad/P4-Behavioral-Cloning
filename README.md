@@ -22,7 +22,6 @@ The goals / steps of this project are the following:
 [image4]: ./data/IMG/center_2018_12_25_00_08_34_947.jpg "Recovery Image"
 [image5]: ./data/IMG/center_2018_12_25_00_08_36_036.jpg "Recovery Image"
 [image6]: ./data/IMG/center_2018_12_25_00_06_51_541.jpg "Red and white lane"
-[image7]: ./examples/placeholder_small.png "Flipped Image"
 
 ## Rubric Points
 ### Here I will consider the [rubric points](https://review.udacity.com/#!/rubrics/432/view) individually and describe how I addressed each point in my implementation.  
