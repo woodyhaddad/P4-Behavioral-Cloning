@@ -1,6 +1,4 @@
 
-# coding: utf-8
-
 # ### This is the script used to create and train the model
 # 
 # I used the [Udacity simulator](https://github.com/udacity/self-driving-car-sim.git) to record data of me driving the car around the track

@@ -32,9 +32,10 @@ The goals / steps of this project are the following:
 #### 1. Relevant Files
 
 * model.py containing the script to create and train the model
-* model.ipynb using jupyter notebook for creation of model.py
+* model.ipynb same as model.py but in Jupyter Notebook file type (since that’s what I used to code it)
+* model.ipynb using Jupyter Notebook for creation of model.py
 * drive.py for driving the car in autonomous mode
-* model.h5 containing a trained convolution neural network 
+* model.h5 containing a trained convolution neural network, obtained when model.py is run 
 * writeup_report.md here, summarizing the results
 * video.mp4 video of the car driving autonomously around the track with my trained model uploaded to it
 
